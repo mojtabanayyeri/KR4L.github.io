@@ -10,6 +10,13 @@ The workshop **Knowledge Representation & Representation Learning (KR4L)** will 
 * Dr. Sahar Vahdati (Primary), Computer Science Department, Information System, University of Oxford
 * Mojtaba Nayyeri, Smart Data Analytics (SDA), Computer Science Institute at the University of Bonn, Germany
 
+## Important Dates:
+
+- Abstract Submission: 15 March
+- Paper Submission: 20 March
+- Author Notification:10 April 
+- Early Bird Registration: 30 April
+
 ## Call for topics:
 
 - Statistical Relational Learning
