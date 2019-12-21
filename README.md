@@ -1,8 +1,7 @@
-## KR4L
+## Knowledge Representation & Representation Learning (KR4L)
 
-You can use the [editor on GitHub](https://github.com/SmartDataAnalytics/KR4L.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The workshop ‘Knowledge Representation & Representation Learning (KR4L)’ will be held in conjunction  with the 24th European Conference on Artificial Intelligence (ECAI 2020). 
 
 ### Markdown
 
